@@ -28,6 +28,8 @@ Favorite Things About CS193
 [Link](url) and ![Image](src)
 ```
 
+Website: https://github.com/Purdue-CS193/homework-0-joshbman
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
