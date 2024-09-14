@@ -25,7 +25,7 @@ Favorite Things About CS193
 
 **Bold** and _Italic_ and `Code` text
 
-Website: https://github.com/Purdue-CS193/homework-0-joshbman
+Website: 'https://github.com/Purdue-CS193/homework-0-joshbman'
 [Link](url) and ![Image](src)
 ```
 
